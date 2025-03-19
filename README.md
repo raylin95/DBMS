@@ -1,2 +1,4 @@
 #DBMS
 ## Intro
+
+##tech stack
